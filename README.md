@@ -1,5 +1,4 @@
 # Book Review Manager
-#### Video Demo: https://youtu.be/3ipZztQi12c
 #### Description:
 
 The "Book Review Manager" is a sophisticated command-line application developed in C, tailored for book enthusiasts. This project serves as a personal library assistant, enabling users to maintain a digital record of books they've read, complete with individual reviews and ratings. The application is designed to handle a list of up to 50 books, aligning with the ambitious goal of avid readers.
